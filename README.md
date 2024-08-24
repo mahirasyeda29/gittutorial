@@ -1,4 +1,4 @@
 # gittutorial
 Learning git
 <br>
-Author- Mahira -The Great.
+Author- Mahira -The Great and Nasty.
